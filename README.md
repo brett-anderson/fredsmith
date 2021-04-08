@@ -1,5 +1,3 @@
-### Fred Smith
-
 ## About
 
 Hi, I'm Fred.  I'm an SRE from Acton, MA. I'm interested in automation, chatops, gitops and the outdoors. 
