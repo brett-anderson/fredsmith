@@ -1,6 +1,6 @@
 ## 2011 Jeep Wrangler Sahara
 
-![Jeep](https://raw.githubusercontent.com/fredsmith/fredsmith/main/images/jeep_header_small.jpg)
+![Jeep](https://raw.githubusercontent.com/fredsmith/fredsmith/main/images/jeep_header_medium.jpg)
 
 ### Currently installed mods
 
