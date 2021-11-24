@@ -4,6 +4,7 @@ Hi, I'm Fred.  I'm an SRE from Acton, MA. I'm interested in automation, chatops,
 
 # Projects
   - [Home Workstation](https://github.com/fredsmith/fredsmith/blob/main/projects/workstation.md)
+  - [Jeep Wrangler](https://github.com/fredsmith/fredsmith/blob/main/projects/jeep.md)
   - [Squaredrop Camper](https://github.com/fredsmith/fredsmith/blob/main/projects/camper.md)
  
 # Links
